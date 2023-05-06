@@ -6,6 +6,7 @@ beginner:
 - [x] preload script to ipc between main and render process, https://www.electronjs.org/docs/latest/tutorial/tutorial-preload
 - [ ] packaging your application, https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging
 - [ ] publishing and updating, https://www.electronjs.org/docs/latest/tutorial/tutorial-publishing-updating
+- [ ] more electron example, https://www.electronjs.org/docs/latest/tutorial/examples
 
 Env:
 
