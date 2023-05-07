@@ -1,12 +1,18 @@
 Electron Hello World!
 
-beginner: 
+Beginner: 
 
 - [x] init, https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
 - [x] preload script to ipc between main and render process, https://www.electronjs.org/docs/latest/tutorial/tutorial-preload
 - [ ] packaging your application, https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging
 - [ ] publishing and updating, https://www.electronjs.org/docs/latest/tutorial/tutorial-publishing-updating
 - [ ] more electron example, https://www.electronjs.org/docs/latest/tutorial/examples
+
+
+Todo:
+
+- [x] 菜单栏：跑通标题菜单栏和右键菜单
+- [ ] 打开MD文件并编辑
 
 Env:
 

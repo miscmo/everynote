@@ -13,3 +13,15 @@ const func = async () => {
 }
 
 func();
+
+window.addEventListener('contextmenu', (e) => {
+	e.preventDefault();
+
+	// bad code
+	// ipcRenderer.send('show-context-menu');
+	window.versions.showContextMenu();
+});
+
+window.versions.contextMenuCommand((e, command) => {
+	console.log(command);
+});
