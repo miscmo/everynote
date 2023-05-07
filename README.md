@@ -8,6 +8,10 @@ Beginner:
 - [ ] publishing and updating, https://www.electronjs.org/docs/latest/tutorial/tutorial-publishing-updating
 - [ ] more electron example, https://www.electronjs.org/docs/latest/tutorial/examples
 
+Git Config:
+
+- [x] .gitignore template: https://github.com/github/gitignore/blob/main/Node.gitignore
+
 
 Todo:
 
